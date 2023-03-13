@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Task54_Sem8/1.0.0": {
+        "runtime": {
+          "Task54_Sem8.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task54_Sem8/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

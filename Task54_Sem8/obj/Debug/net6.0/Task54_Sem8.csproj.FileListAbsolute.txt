@@ -1,0 +1,15 @@
+C:\Users\ossip\OneDrive\Desktop\Программирование на С#\DZ_Seminar8\Task54_Sem8\bin\Debug\net6.0\Task54_Sem8.exe
+C:\Users\ossip\OneDrive\Desktop\Программирование на С#\DZ_Seminar8\Task54_Sem8\bin\Debug\net6.0\Task54_Sem8.deps.json
+C:\Users\ossip\OneDrive\Desktop\Программирование на С#\DZ_Seminar8\Task54_Sem8\bin\Debug\net6.0\Task54_Sem8.runtimeconfig.json
+C:\Users\ossip\OneDrive\Desktop\Программирование на С#\DZ_Seminar8\Task54_Sem8\bin\Debug\net6.0\Task54_Sem8.dll
+C:\Users\ossip\OneDrive\Desktop\Программирование на С#\DZ_Seminar8\Task54_Sem8\bin\Debug\net6.0\Task54_Sem8.pdb
+C:\Users\ossip\OneDrive\Desktop\Программирование на С#\DZ_Seminar8\Task54_Sem8\obj\Debug\net6.0\Task54_Sem8.csproj.AssemblyReference.cache
+C:\Users\ossip\OneDrive\Desktop\Программирование на С#\DZ_Seminar8\Task54_Sem8\obj\Debug\net6.0\Task54_Sem8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ossip\OneDrive\Desktop\Программирование на С#\DZ_Seminar8\Task54_Sem8\obj\Debug\net6.0\Task54_Sem8.AssemblyInfoInputs.cache
+C:\Users\ossip\OneDrive\Desktop\Программирование на С#\DZ_Seminar8\Task54_Sem8\obj\Debug\net6.0\Task54_Sem8.AssemblyInfo.cs
+C:\Users\ossip\OneDrive\Desktop\Программирование на С#\DZ_Seminar8\Task54_Sem8\obj\Debug\net6.0\Task54_Sem8.csproj.CoreCompileInputs.cache
+C:\Users\ossip\OneDrive\Desktop\Программирование на С#\DZ_Seminar8\Task54_Sem8\obj\Debug\net6.0\Task54_Sem8.dll
+C:\Users\ossip\OneDrive\Desktop\Программирование на С#\DZ_Seminar8\Task54_Sem8\obj\Debug\net6.0\refint\Task54_Sem8.dll
+C:\Users\ossip\OneDrive\Desktop\Программирование на С#\DZ_Seminar8\Task54_Sem8\obj\Debug\net6.0\Task54_Sem8.pdb
+C:\Users\ossip\OneDrive\Desktop\Программирование на С#\DZ_Seminar8\Task54_Sem8\obj\Debug\net6.0\Task54_Sem8.genruntimeconfig.cache
+C:\Users\ossip\OneDrive\Desktop\Программирование на С#\DZ_Seminar8\Task54_Sem8\obj\Debug\net6.0\ref\Task54_Sem8.dll
